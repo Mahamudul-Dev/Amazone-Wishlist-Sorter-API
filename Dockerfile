@@ -18,4 +18,4 @@ ENV API_PORT=2000
 ENV AMAZON_URL=https://www.amazon.de
 
 # Start the app
-CMD ["node", "src/index.js"]
+CMD ["node", "src/server.js"]
